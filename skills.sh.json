@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "AgencyDesk Skills — Title & Escrow (free sample)",
+      "description": "Clerical title and escrow closing comparison skill from AgencyDesk Skills by L&M Consulting. Drafts only; requires qualified review.",
+      "skills": [
+        "closing-disclosure-settlement-comparison"
+      ]
+    }
+  ]
+}

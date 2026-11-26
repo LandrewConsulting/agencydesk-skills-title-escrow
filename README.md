@@ -103,6 +103,10 @@ skills/
 - **AgencyDesk Skills Store (full packs & more):** [https://landmconsultinginc.com/ai-skills/](https://landmconsultinginc.com/ai-skills/)
 - **Agensi Listing (`Closing Disclosure Settlement Comparison`):** [https://agensi.io/skills/closing-disclosure-settlement-comparison](https://agensi.io/skills/closing-disclosure-settlement-comparison)
 
+## Support
+
+Issues are turned off for this repository. To report a bug or ask a question, email support@landmconsultinginc.com.
+
 ## License
 
 This repository is licensed under the [MIT License](./LICENSE). Skills are provided "as is" without warranty; outputs are clerical drafts only and require review by a qualified title officer, escrow officer, attorney, or licensed settlement professional before reliance or external use.

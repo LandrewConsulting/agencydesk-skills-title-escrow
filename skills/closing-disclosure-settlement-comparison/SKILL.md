@@ -1,6 +1,6 @@
 ---
 name: closing-disclosure-settlement-comparison
-description: Compares Closing Disclosure and settlement statement figures and lists matches, differences, and verification items. Clerical draft only; requires qualified review.
+description: Compares Closing Disclosure and settlement statement figures for title and escrow closings and lists matches, differences, and verification items. Clerical draft only; requires qualified review.
 license: MIT
 metadata:
   author: "L&M Consulting Inc."

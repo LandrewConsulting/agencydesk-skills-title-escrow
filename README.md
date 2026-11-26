@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://geeduzbsatvodnlijqfs.supabase.co/storage/v1/object/public/product-media/c059e319-ea19-4aff-9b6c-39797f90a2b4/cb86581a-07b8-4ef2-be2a-6cb2b59062ae/logo-1795644327387-0.webp" alt="AgencyDesk Title &amp; Escrow" width="180" height="180" />
+  <img src="https://geeduzbsatvodnlijqfs.supabase.co/storage/v1/object/public/product-media/c059e319-ea19-4aff-9b6c-39797f90a2b4/cb86581a-07b8-4ef2-be2a-6cb2b59062ae/logo-1795644327387-0.webp" alt="AgencyDesk Title & Escrow" width="180" height="180" />
 </p>
 
 # AgencyDesk Skills — Title & Escrow (Free Sample)
@@ -9,7 +9,9 @@
 [![Agensi Listing](https://img.shields.io/badge/Agensi-Closing_Disclosure_Settlement_Comparison-0c182c)](https://agensi.io/skills/closing-disclosure-settlement-comparison)
 [![License: MIT](https://img.shields.io/badge/License-MIT-e8a83c)](./LICENSE)
 
-Clerical AI agent skills by **AgencyDesk Skills** (L&M Consulting Inc.). This repository hosts a single free sample from the 10-skill AgencyDesk Title & Escrow pack: **`closing-disclosure-settlement-comparison` (Closing Disclosure Settlement Comparison)** (public free-sample distribution accepted).
+Clerical AI agent skills by **AgencyDesk Skills** (L&M Consulting Inc.) for title and escrow teams. This repository hosts a single free sample from the 10-skill AgencyDesk Title & Escrow pack: **`closing-disclosure-settlement-comparison` (Closing Disclosure Settlement Comparison)** (public free-sample distribution accepted).
+
+Closing Disclosure Settlement Comparison helps an escrow officer or title team compare figures between a Closing Disclosure and a settlement statement on a real estate closing, and lists documented matches, differences, and items for verification. It does not call differences errors or make legal, coverage, or compliance determinations.
 
 Skills follow the open [Agent Skills](https://agentskills.io/) specification. Explore all AgencyDesk skill packs at the [AgencyDesk Skills Store](https://landmconsultinginc.com/ai-skills/).
 
@@ -83,8 +85,14 @@ This repository is licensed under the [MIT License](./LICENSE). Skills are provi
 
 ---
 
-### More AgencyDesk Skills
+### More AgencyDesk free samples
 
-Looking for the full Title & Escrow pack or more skills for small businesses and industries? Explore all packs at **[landmconsultinginc.com/ai-skills](https://landmconsultinginc.com/ai-skills/)**.
+| Vertical | Free sample | GitHub repo | skills.sh listing |
+|---|---|---|---|
+| Insurance | COI Contract Check | [agencydesk-skills-insurance](https://github.com/LandrewConsulting/agencydesk-skills-insurance) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-insurance) |
+| Construction | Bid Leveling Scope Gap | [agencydesk-skills-construction](https://github.com/LandrewConsulting/agencydesk-skills-construction) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-construction) |
+| Property Management | Lease Abstract | [agencydesk-skills-property-management](https://github.com/LandrewConsulting/agencydesk-skills-property-management) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-property-management) |
+| Title & Escrow | Closing Disclosure Settlement Comparison | [agencydesk-skills-title-escrow](https://github.com/LandrewConsulting/agencydesk-skills-title-escrow) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-title-escrow) |
+| All AgencyDesk packs | Full skill store | [landmconsultinginc.com/ai-skills](https://landmconsultinginc.com/ai-skills/) | [AgencyDesk Skills Store](https://landmconsultinginc.com/ai-skills/) |
 
 Published by L&M Consulting.
